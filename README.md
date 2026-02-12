@@ -1,6 +1,6 @@
 # WebFlow Template - Camera Store
 
-- [Demo Project]()
+- [Demo Project](https://shalizsharafi.github.io/CameraShopWebsite/)
 
 - Developed by Shaliz Sharafi
 
